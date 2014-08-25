@@ -1,79 +1,448 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+	<title>Links</title>
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link type="text/css" rel="stylesheet" href="stylesheets/link.css">
+	<link type="text/css" rel="stylesheet" href="http://lib.sinaapp.com/js/jquery-ui/1.10.0/themes/dark-hive/jquery-ui.css">
+</head>
+<body>
+	<header>
+		<img id="logo" alt="logo" src="images/logo_four.png">
+		<nav>
+			<li id="index" class="item"><a href="#">首页</a></li>
+			<li id="music" class="item"><a href="#">音乐</a></li>
+			<li id="acg" class="item"><a href="#">动漫</a></li>
+			<li id="picture" class="item"><a href="#">图片</a></li>
+			<li id="movie" class="item"><a href="#">电影</a></li>
+			<li id="study" class="item"><a href="#">学习</a></li>
+			<li id="word" class="item"><a href="#">文字</a></li>
+			<li id="other" class="item"><a href="javascript:">其他</a></li>
+		</nav>
+		<div class="hideLink">
+			<ul><a href="#">链接</a></ul>
+			<ul><a href="#">游戏</a></ul>
+			<ul><a href="#">App</a></ul>
+		</div>
+	</header>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Bookmarks : A collection of bookmarks that I think it&#39;s useful.">
+	<aside>
+		<h1>常用</h1>
+		<h2>教育学习</h2>
+		<ul>
+			<li>校内</li>
+			<li>开源</li>
+			<li>OJ</li>
+			<li>Web</li>
+			<li>操作系统</li>
+			<li>编程语言</li>
+			<li>信息安全</li>
+			<li>软件/APP</li>
+			<li>硬件设计</li>
+			<li>科技资讯</li>
+			<li>发现知识</li>
+			<li>外语</li>
+			<li>在线教育</li>
+		</ul>
+		<h2>休闲娱乐</h2>
+		<ul>
+			<li>电影电视</li>
+			<li>动漫</li>
+			<li>音乐</li>
+			<li>文字</li>
+			<li>SNS</li>
+			<li>游戏</li>
+			<li>开心一刻</li>
+		</ul>
+		<h2>生活服务</h2>
+		<ul>
+			<li>工作</li>
+			<li>网购</li>
+			<li>时尚</li>
+			<li>手工设计</li>
+			<li>驴游天下</li>
+		</ul>
+		<h2>社会百态</h2>
+		<ul>
+			<li>国内</li>
+			<li>国外</li>
+			<li>经济</li>
+		</ul>
+		<h2>其他</h2>
+		<ul>
+			<li>国外网站</li>
+			<li>小工具</li>
+			<li>下载</li>
+		</ul>
+	</aside>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<div id="allTheLinks">
+		<table>
+			<tr>
+				<td>常用</td>
+				<td>
+					<a href="http://out.bitunion.org/">北理FTP联盟</a>
+					<a href="http://out.bitpt.cn/bbs/forum.php">极速之星</a>
+					<a href="http://online.bit.edu.cn/ccs/main/loginIndex.do">北理在线</a>
+					<a href="http://weibo.com/">新浪微博</a>
+					<a href="http://qzone.qq.com">QQ空间</a>
+					<a href="http://www.luoo.net/">Luoo</a>
+				</td>
+			</tr>
+			<tr>
+				<td>校内</td>
+				<td>
+					<a href="http://www.bit.edu.cn/dhw/zxs/index.htm">校内导航</a>
+					<a href="http://www.bit.edu.cn/">官网</a>
+					<a href="http://out.bitunion.org/">北理FTP联盟(外)</a>
+					<a href="http://www.bitunion.org/">北理FTP联盟(内)</a>
+					<a href="http://out.bitpt.cn/bbs/forum.php">极速之星(外)</a>
+					<a href="http://bitpt.cn/">极速之星(内)</a>
+					<a href="http://jwc.bit.edu.cn/">教务处</a>
+					<a href="http://10.0.6.51/">教务处(IP)</a>
+					<a href="http://online.bit.edu.cn/ccs/main/loginIndex.do">北理在线</a>
+					<a href="http://elearning.bit.edu.cn/eol/homepage/common/">教育在线</a><br>
+					<a href="http://lib.bit.edu.cn/">图书馆</a>
+					<a href="http://sxbit.chineseall.cn/">书香校园</a>
+					<a href="http://10.102.20.2/xxfb.php">校办公室</a>
+					<a href="http://jia.bit.edu.cn/">家校彩虹</a>
+					<a href="http://bit.tiaozhanbei.net/">挑战杯</a>
+					<a href="http://ac.bit.edu.cn/">自动化学院</a>
+					<a href="http://www.bitren.org/">Bitren</a>
+					<a href="http://bbs.bit.edu.cn/">石桥驿站</a>
+					<a href="http://bbs.century.bit.edu.cn/bbs/index.php">京工世纪论坛</a>
+					<a href="http://sla.bit.edu.cn/">基础教育学院</a>
+					<a href="http://bittv.bit.edu.cn/">北理工电视台</a>
+				</td>
+			</tr>
+			<tr>
+				<td>开源</td>
+				<td>
+					<a href="http://www.oschina.net/">开源中国</a>
+					<a href="https://github.com/">GitHub</a>
+					<a href="http://sourceforge.net/">Sourceforge</a>
+				</td>
+			</tr>
+			<tr>
+				<td>OJ</td>
+				<td>
+					<a href="http://uva.onlinejudge.org/">UVa</a>
+					<a href="http://acm.timus.ru/">Timus</a>
+					<a href="http://poj.org/">PKU</a>
+					<a href="http://acm.hdu.edu.cn/">HDU</a>
+					<a href="http://bailian.openjudge.cn/">百练</a>
+					<a href="http://acm.bit.edu.cn/">北理ACM</a>
+					<a href="http://vjudge.net/toIndex.action">Virtual Judge</a>
+					<a href="http://ac.jobdu.com/">九度</a>
+					<a href="https://oj.leetcode.com/">LeetCode</a>
+					<a href="https://code.google.com/codejam/">GCJ</a>
+				</td>
+			</tr>
+			<tr>
+				<td>Web</td>
+				<td>
+					<a href="http://www.w3.org/">W3C</a>
+					<a href="http://www.w3school.com.cn/">W3school</a>
+					<a href="http://www.zhangxinxu.com/wordpress/">张鑫旭</a>
+					<a href="http://validator.w3.org/">W3C Markup Validation Service</a>
+					<a href="https://developer.mozilla.org/zh-CN/">Mozilla Developer</a>
+					<a href="http://www.csszengarden.com/">CSS Zeng</a>
+					<a href="http://www.jshint.com/">JSHint</a>
+					<a href="http://js1k.com/">JS1K</a>
+					<a href="http://www.fontsquirrel.com/">FontSquirrel</a>
+					<a href="http://www.dedecms.com/">织梦</a>
+				</td>
+			</tr>
+			<tr>
+				<td>操作系统</td>
+				<td>
+					<a href="http://www.centos.bz/">Linux运维</a>
+				</td>
+			</tr>
+			<tr>
+				<td>编程语言</td>
+				<td>
+					<a href="http://www.pimsleur.com/">Pimsleur</a>
+					<a href="http://www.cplusplus.com/">C++ Resources</a>
+					<a href="http://www.cprogramming.com/">C Programming</a>
+					<a href="http://www.acm.uiuc.edu/webmonkeys/book/c_guide/">The C Library Reference Guide</a>
+					<a href="http://cm.bell-labs.com/cm/cs/who/dmr/chist.html">C History</a>
+					<a href="http://www.programfan.com/acm/">编程爱好者</a>
+				</td>
+			</tr>
+			<tr>
+				<td>信息安全</td>
+				<td>
+					<a href="http://www.securitymap.org/">SecureMap</a>
+					<a href="http://dvwa.mujj.cn/">DVWA</a>
+					<a href="http://bbs.pediy.com/">看雪</a>
+					<a href="http://wooyun.org/">WooYun</a>
+					<a href="http://www.isclab.org/">信息安全实验中心</a>
+					<a href="http://joychou.org/index.php/Misc/iscc-ctf-2014-writeup.html">ISCC 2014 Writeup</a>
+					<a href="http://www.freebuf.com/">Freebuf</a>
+					<a href="http://www.cnhonkerarmy.com/portal.php">红客联盟</a>
+				</td>
+			</tr>
+			<tr>
+				<td>数据库</td>
+				<td>
+					<a href="http://blog.csdn.net/xrt95050/article/details/5556411">内外键</a>
+					<a href="http://www.wanfangdata.com.cn/">万方数据库</a>
+					<a href="http://www.cnki.net/">中国知网</a>
+					<a href="http://gen.lib.rus.ec/">Library Genesis</a>
+				</td>
+			</tr>
+			<tr>
+				<td>软件/APP</td>
+				<td>
+					<a href="http://app.hustonline.net/major">大软坊</a>
+					<a href="http://www.cnblogs.com/aimeng/archive/2012/03/13/2393244.html">android开发教程</a>
+					<a href="http://www.phonekr.com/">锋客网</a>
+				</td>
+			</tr>
+			<tr>
+				<td>算法</td>
+				<td>
+					<a href="http://blog.csdn.net/morewindows/article/details/6709644">堆与排序</a>
+					<a href="http://simplemind.info/sicp/">SICP笔记</a>
+				</td>
+			</tr>
+			<tr>
+				<td>硬件设计</td>
+				<td>
+					<a href="http://www.elecfans.com/">电子发烧友</a>
+				</td>
+			</tr>
+			<tr>
+				<td>科技资讯</td>
+				<td>
+					<a href="http://blog.jobbole.com/">伯乐在线</a>
+					<a href="http://www.csdn.net/">CSDN</a>
+					<a href="http://www.infoq.com">InfoQ</a>
+					<a href="http://www.aqee.net/">外刊IT</a>
+					<a href="http://www.ithome.com/">IT之家</a>
+				</td>
+			</tr>
+			<tr>
+				<td>发现知识</td>
+				<td>
+					<a href="http://www.ruanyifeng.com/home.html">阮一峰</a>
+					<a href="http://www.reddit.com/">Reddit</a>
+					<a href="http://www.quora.com/">Quora</a>
+					<a href="http://stackoverflow.com/">Stackoverflow</a>
+					<a href="http://www.sciencemag.org/">Science</a>
+					<a href="http://www.natureasia.com/zh-cn/">Nature</a>
+					<a href="http://www.cnblogs.com/">博客园</a>
+					<a href="http://www.guokr.com/">果壳网</a>
+					<a href="http://coolshell.cn/">酷壳</a>
+					<a href="http://www.newsmth.net/">水木社区</a>
+					<a href="http://icodeit.org/">ICodeIt</a>
+					<a href="http://www.ljf.cn/">懒惰之计</a>
+				</td>
+			</tr>
+			<tr>
+				<td>外语</td>
+				<td>
+					<a href="http://jp.tingroom.com/">日语学习网</a>
+					<a href="http://www.yahoo.co.jp/">Yahoo!JAPAN</a>
+					<a href="http://www.51voa.com/">VOA</a>
+				</td>
+			</tr>
+			<tr>
+				<td>在线教育</td>
+				<td>
+					<a href="http://www.codecademy.com/zh/dashboard">Codecademy</a>
+					<a href="https://www.coursera.org/">Coursera</a>
+					<a href="https://www.udacity.com/">Udacity</a>
+					<a href="http://www.edu.cn/html/opencourse/index.shtml">网络公开课导航</a>
+					<a href="http://www.51zxw.net/">我要自学网</a>
+					<a href="http://www.itcast.cn/">传智播客</a>
+				</td>
+			</tr>
+			<tr>
+				<td>电影电视</td>
+				<td>
+					<a href="http://www.mtime.com/">时光网</a>
+					<a href="http://iptv.bupt.edu.cn/">IMDb Top 250</a>
+					<a href="http://iptv.bupt.edu.cn/">北邮iptv</a>
+					<a href="http://tv6.ustc.edu.cn/">中科大iptv</a>
+				</td>
+			</tr>
+			<tr>
+				<td>动漫</td>
+				<td>
+					<a href="http://bangumi.tv/">Bangumi</a>
+					<a href="http://www.pixiv.net/mypage.php">Pixiv</a>
+					<a href="http://moefou.org/">萌否</a>
+					<a href="http://www.bilibili.com/">Bilibili</a>
+					<a href="http://gelbooru.com/">G站</a>
+					<a href="http://www.zhaiwuyu.com/">宅物语</a>
+					<a href="http://www.xxbt.com/">B&T</a>
+					<a href="http://www.lovebwing.com/">B.Wing</a>
+				</td>
+			</tr>
+			<tr>
+				<td>音乐</td>
+				<td>
+					<a href="http://www.xiami.com/">虾米</a>
+					<a href="http://www.yinyuetai.com/">音悦台</a>
+					<a href="http://cn.last.fm/home">Last.fm</a>
+					<a href="http://musicovery.com/">Musicovery</a>
+					<a href="http://www.luoo.net/">Luoo</a>
+					<a href="http://www.nofm.cn/">乐鼠无牙</a>
+					<a href="http://www.ektoplazm.com/">Ektoplazm</a>
+					<a href="http://www.mologer.cn/">音乐是岸</a>
+					<a href="http://www.mtyyw.com/">麦田音乐</a>
+					<a href="http://vinmusic.com/">唯音乐</a>
+				</td>
+			</tr>
+			<tr>
+				<td>文字</td>
+				<td>
+					<a href="http://blog.sina.com.cn">新浪博客</a>
+					<a href="http://www.chinawriter.com.cn/">中国作家网</a>
+					<a href="http://www.yilin.net.cn/">意林</a>
+				</td>
+			</tr>
+			<tr>
+				<td>SNS</td>
+				<td>
+					<a href="http://weibo.com/">新浪微博</a>
+					<a href="http://www.douban.com/">豆瓣</a>
+					<a href="http://tieba.baidu.com/index.html">百度贴吧</a>
+					<a href="http://qzone.qq.com/">QQ空间</a>
+					<a href="http://www.renren.com/">人人</a>
+					<a href="http://www.huodongxing.com/">活动行</a>
+					<a href="http://bj.58.com/">58同城</a>
+					<a href="https://www.facebook.com/">Facebook</a>
+					<a href="https://twitter.com/">Twitter</a>
+				</td>
+			</tr>
+			<tr>
+				<td>游戏</td>
+				<td>
+					<a href="http://tieba.baidu.com/p/3216510915">谈谈编程游戏</a>
+					<a href="http://iteratoradvance.github.io/">Not A Number</a>
+					<a href="http://www.chinajoy.net/">Chinajoy</a>
+					<a href="http://freerice.com/">Freerice</a>
+				</td>
+			</tr>
+			<tr>
+				<td>开心一刻</td>
+				<td>
+					<a href="http://www.qiushibaike.com/">糗百</a>
+				</td>
+			</tr>
+			<tr>
+				<td>工作</td>
+				<td>
+					<a href="http://www.zhaopin.com/">智联招聘</a>
+					<a href="http://www.51job.com/">前程无忧</a>
+					<a href="http://www.liepin.com/">猎聘网</a>
+				</td>
+			</tr>
+			<tr>
+				<td>网购</td>
+				<td>
+					<a href="http://www.jd.com/">京东</a>
+					<a href="http://www.taobao.com/">淘宝</a>
+					<a href="http://www.tmall.com/">天猫</a>
+					<a href="http://www.yihaodian.com/">1号店</a>
+					<a href="http://www.amazon.cn/">Amazon</a>
+					<a href="http://www.dangdang.com/">当当网</a>
+					<a href="www.meituan.com/">美团</a>
+					<a href="http://shop.vipshop.com/">唯品会</a>
+					<a href="http://www.suning.com/">苏宁易购</a>
+				</td>
+			</tr>
+			<tr>
+				<td>时尚</td>
+				<td>
+					<a href="http://www.versace.com/">Versace</a>
+					<a href="http://www.prada.com/">Prada</a>
+					<a href="http://www.antonioli.eu/">Antonioli</a>
+				</td>
+			</tr>
+			<tr>
+				<td>设计</td>
+				<td>
+					<a href="http://society6.com/">Society6</a>
+					<a href="http://www.68ps.com/">PS联盟</a>
+				</td>
+			</tr>
+			<tr>
+				<td>驴游天下</td>
+				<td>
+					<a href="http://www.bjlyjy.com/">北京旅游教育网</a>
+					<a href="http://www.mafengwo.cn/">蚂蜂窝</a>
+					<a href="http://www.qyer.com/">穷游网</a>
+					<a href="http://www.csair.com/cn/index.shtml">中国南航</a>
+				</td>
+			</tr>
+			<tr>
+				<td>国内</td>
+				<td>
+					<a href="http://www.moe.gov.cn/">教育部</a>
+					<a href="http://www.bv2008.cn/index.shtml">志愿北京</a>
+					<a href="http://www.hd315.gov.cn/">北京工商局</a>
+					<a href="http://www.beijing.gov.cn/">首都之窗</a>
+					<a href="http://www.luan.gov.cn/">六安政府网</a>
+					<a href="http://www.ahds.gov.cn/">独山政府网</a>
+					<a href="http://www.cnpad.net/">中国公益广告</a>
+				</td>
+			</tr>
+			<tr>
+				<td>国外</td>
+				<td>
+					<a href="http://rsf-chinese.org/">无国界记者</a>
+				</td>
+			</tr>
+			<tr>
+				<td>经济</td>
+				<td>
+					<a href="https://blockchain.info/zh-cn/wallet/login">比特币</a>
+				</td>
+			</tr>
+			<tr>
+				<td>国外网站</td>
+				<td>
+					<a href="https://petitions.whitehouse.gov/">WeThePeople</a>
+					<a href="http://www.iso.org/iso/home.html">ISO</a>
+				</td>
+			</tr>
+			<tr>
+				<td>小工具</td>
+				<td>
+					<a href="http://cloudmonitor.ca.com/zh_cn/ping.php">just ping</a>
+					<a href="http://www.chsi.com.cn/">学信网</a>
+					<a href="http://www.ceic.ac.cn/">中国地震台</a>
+					<a href="http://www.ccets.org/">四六级</a>
+					<a href="http://ncre.bjeea.cn/web/login.jsp">计算机等级</a>
+					<a href="http://workshop.chromeexperiments.com/stars/">100,000 Stars</a>
+					<a href="http://www.hzt360.com/">市政交通一卡通</a>
+					<a href="http://0907tool.duapp.com/sms/">短信炸弹</a>
+					<a href="http://www.2ab.net/skydrive.html">QQ空间背景音乐链接</a>
+					<a href="http://ipv6.tsinghua.edu.cn/resource/ipv6-gong-ju/">IPV6工具</a><br>
+					<a href="https://code.google.com/hosting/">Google Project Hosting</a>
+					<a href="https://code.google.com/p/ipv6-hosts/source/browse/hosts">Google IPV6 Hosts</a>
+				</td>
+			</tr>
+			<tr>
+				<td>下载</td>
+				<td>
+					<a href="http://www.0daydown.com/">0daydown</a>
+					<a href="http://club.topsage.com/">大家论坛</a>
+					<a href="http://www.fontsquirrel.com/">字体下载</a>
+					<a href="http://bt.neu6.edu.cn/">六维空间</a>
+					<a href="http://it-ebooks.info/">IT eBooks</a>
+				</td>
+			</tr>
+		</table>
+	</div>
 
-    <title>Bookmarks</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/hecate-xw/bookmarks">View on GitHub</a>
-
-          <h1 id="project_title">Bookmarks</h1>
-          <h2 id="project_tagline">A collection of bookmarks that I think it&#39;s useful.</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/hecate-xw/bookmarks/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/hecate-xw/bookmarks/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Bookmarks maintained by <a href="https://github.com/hecate-xw">hecate-xw</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+<script type="text/javascript" src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery-ui/1.10.0/jquery-ui.min.js"></script>
+<script type="text/javascript" src="javascripts/link.js"></script>
+</body>	
 </html>

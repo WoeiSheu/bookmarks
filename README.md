@@ -1,3 +1,6 @@
 bookmarks
 =========
-####It's an index of all my collected links.
+
+keep a record of my bookmarks
+=========
+####go to <http://tryandtry.github.io/bookmarks/> 
