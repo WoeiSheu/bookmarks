@@ -1,0 +1,122 @@
+body > nav.navbar-static-top {
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+.sidebar {
+    background: #272822;
+    position: fixed;
+    bottom: 0;
+    top: 50px;
+    -webkit-animation:SpeedIn ease 1.5s;
+    -webkit-animation-iteration-count:1;
+    -webkit-transform-origin:;
+    -webkit-animation-fill-mode:forwards;
+    -moz-animation:SpeedIn ease 1.5s;
+    -moz-animation-iteration-count:1;
+    -moz-transform-origin:;
+    -moz-animation-fill-mode:forwards;
+    -ms-animation:SpeedIn ease 1.5s;
+    -ms-animation-iteration-count:1;
+    -ms-transform-origin:;
+    -ms-animation-fill-mode:forwards;
+}
+@-moz-keyframes SpeedIn{
+    0%{
+        left:-1500px;
+        top:50px;
+        opacity:0.7;
+        -moz-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+    60%{
+        left:30px;
+        opacity:0.8;
+    }
+    80%{
+        left:-10px;
+        opacity:0.9;
+    }
+    100%{
+        left:0px;
+        top:50px;
+        opacity:1;
+        -moz-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+}
+@-webkit-keyframes SpeedIn{
+    0%{
+        left:-1500px;
+        top:50px;
+        opacity:0.7;
+        -webkit-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+    60%{
+        left:30px;
+        opacity:0.8;
+    }
+    80%{
+        left:-10px;
+        opacity:0.9;
+    }
+    100%{
+        left:0px;
+        top:50px;
+        opacity:1;
+        -webkit-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+}
+@-ms-keyframes SpeedIn{
+    0%{
+        left:-1500px;
+        top:50px;
+        opacity:0.7;
+        -ms-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+    60%{
+        left:30px;
+        opacity:0.8;
+    }
+    80%{
+        left:-10px;
+        opacity:0.9;
+    }
+    100%{
+        left:0px;
+        top:50px;
+        opacity:1;
+        -ms-transform:rotate(0deg) scaleX(1) scaleY(1);
+    }
+}
+
+div.container-fluid a{
+    color: #ffffff;
+}
+div.container-fluid a:hover,
+div.container-fluid a:focus {
+    background: #5db2ff;
+}
+div.container-fluid ul.nav {
+    margin-top: 20px;
+}
+div.container-fluid div.main {
+    position: relative;
+    top: 50px;
+    padding-left: 30px;
+}
+
+div.container-fluid div.main table.table a,
+a:hover,
+a:focus,
+a:visited {
+    background-color: transparent;
+}
+div.container-fluid div.main table.table a {
+    color: #272822;
+}
+div.container-fluid div.main table.table a:hover,
+a:focus {
+    color: #f92672;
+}
+div.container-fluid div.main table.table a:visited {
+    color: blue;
+}
