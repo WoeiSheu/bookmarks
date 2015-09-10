@@ -5,9 +5,11 @@ body > nav.navbar-static-top {
 }
 .sidebar {
     background: #272822;
+    color: #ffffff;
     position: fixed;
     bottom: 0;
     top: 50px;
+    padding-top: 9%;
     -webkit-animation:SpeedIn ease 1.5s;
     -webkit-animation-iteration-count:1;
     -webkit-transform-origin:;
@@ -20,6 +22,27 @@ body > nav.navbar-static-top {
     -ms-animation-iteration-count:1;
     -ms-transform-origin:;
     -ms-animation-fill-mode:forwards;
+}
+.sidebar > h2 {
+    font-family: "Homestead Inline", "Glyphicons Halflings";
+    margin-bottom: -12px;
+}
+.sidebar > img {
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;
+    transition: all 2s ease-in-out;
+}
+.sidebar > img:hover {
+     -webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+     -o-transform: rotate(360deg);
+     -ms-transform: rotate(360deg);
+     transform: rotate(360deg);
+}
+.sidebar > p {
+    font-style: italic;
+    font-size: 20px;
 }
 @media(max-width: 960px){
     .sidebar {
