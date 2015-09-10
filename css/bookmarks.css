@@ -21,6 +21,11 @@ body > nav.navbar-static-top {
     -ms-transform-origin:;
     -ms-animation-fill-mode:forwards;
 }
+@media(max-width: 960px){
+    .sidebar {
+        display: none;
+    }
+}
 @-moz-keyframes SpeedIn{
     0%{
         left:-1500px;
@@ -112,6 +117,7 @@ a:visited {
 }
 div.container-fluid div.main table.table a {
     color: #272822;
+    margin-left: 12px;
 }
 div.container-fluid div.main table.table a:hover,
 a:focus {
@@ -119,4 +125,20 @@ a:focus {
 }
 div.container-fluid div.main table.table a:visited {
     color: blue;
+}
+div.main table.table > tbody > tr > td:first-child {
+    width: 10%;
+    color: #5f9ea0;
+    font-size: 20px;
+    text-shadow: 6px 6px 6px; /*! text-shadow: 6px 6px 6px yellow; */
+    vertical-align: middle;
+}
+div.main table.table > tbody > tr > td:last-child {
+    font-size: 16px;
+    vertical-align: middle;
+}
+div.main table.table > tbody > tr > td:last-child > p {
+    margin: 0px;
+    text-indent: -12px;  /*! <p>元素自动换行后对齐*/
+    text-align: left;
 }
