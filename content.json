@@ -1,0 +1,283 @@
+{
+    "version": "1.0",
+    "all": {
+        "校内": {
+            "校内导航": "http://www.bit.edu.cn/dhw/zxs/index.htm",
+            "北理工官网": "http://www.bit.edu.cn/",
+            "北理FTP联盟(外)": "http://out.bitunion.org/",
+            "北理FTP联盟(内)": "http://www.bitunion.org/",
+            "极速之星(外)": "http://out.bitpt.cn/bbs/forum.php",
+            "极速之星(内)": "http://bitpt.cn/",
+            "教务处": "http://jwc.bit.edu.cn/",
+            "教务处(IP)": "http://10.0.6.51/",
+            "北理在线": "http://online.bit.edu.cn/ccs/main/loginIndex.do",
+            "教育在线": "http://elearning.bit.edu.cn/eol/homepage/common/",
+            "图书馆": "http://lib.bit.edu.cn/",
+            "书香校园": "http://sxbit.chineseall.cn/",
+            "校办公室": "http://10.102.20.2/xxfb.php",
+            "家校彩虹": "http://jia.bit.edu.cn/",
+            "挑战杯": "http://bit.tiaozhanbei.net/",
+            "自动化学院": "http://ac.bit.edu.cn/",
+            "圈圈乐": "http://www.quanquan6.com/admin/index.aspx",
+            "石桥驿站": "http://bbs.bit.edu.cn/",
+            "京工世纪论坛": "http://bbs.century.bit.edu.cn/bbs/index.php",
+            "基础教育学院": "http://sla.bit.edu.cn/",
+            "北理工电视台": "http://bittv.bit.edu.cn/"
+        },
+        "在线教育": {
+            "Codecademy": "http://www.codecademy.com/zh/dashboard",
+            "实验楼": "http://www.shiyanlou.com/courses/",
+            "Coursera": "https://www.coursera.org/",
+            "七月算法": "http://www.julyedu.com/",
+            "Udacityh": "ttps://www.udacity.com/",
+            "网络公开课导航": "http://www.edu.cn/html/opencourse/index.shtml",
+            "我要自学网": "http://www.51zxw.net/",
+            "传智播客": "http://www.itcast.cn/"
+        },
+        "开源": {
+            "开源中国": "http://www.oschina.net/",
+            "GitHub": "https://github.com/",
+            "Bitbucket": "https://bitbucket.org/",
+            "Sourceforge": "http://sourceforge.net/"
+        },
+        "Blog": {
+            "酷壳": "http://coolshell.cn/",
+            "阮一峰": "http://www.ruanyifeng.com/home.html",
+            "邱俊涛": "http://icodeit.org/",
+            "Simple Mind": "http://simplemind.info/blog/",
+            "俊杰的空间": "http://www.syjzwjj.com/",
+            "RickGray": "http://rickgray.me/",
+            "RootKiter": "http://rootkiter.com/",
+            "nlfox": "http://nlfox.com/",
+            "梓朋": "http://www.purpleroc.com/",
+            "Ricter": "https://www.ricter.me/",
+            "AppleU0": "http://appleu0.sinaapp.com/"
+        },
+        "运维": {
+            "Linux运维": "http://www.centos.bz/",
+            "内外键": "http://blog.csdn.net/xrt95050/article/details/5556411"
+        },
+        "编程语言": {
+            "Pimsleur": "http://www.pimsleur.com/",
+            "C++ Resources": "http://www.cplusplus.com/",
+            "C Programming": "http://www.cprogramming.com/",
+            "The C Library Reference Guide": "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/",
+            "C History": "http://cm.bell-labs.com/cm/cs/who/dmr/chist.html",
+            "编程爱好者": "http://www.programfan.com/acm/"
+        },
+        "算法": {
+            "堆与排序": "http://blog.csdn.net/morewindows/article/details/6709644",
+            "UVa": "http://uva.onlinejudge.org/",
+            "Timus": "http://acm.timus.ru/",
+            "PKU": "http://poj.org/",
+            "HDU": "http://acm.hdu.edu.cn/",
+            "百练": "http://bailian.openjudge.cn/",
+            "北理ACM": "http://acm.bit.edu.cn/",
+            "Virtual Judge": "http://vjudge.net/toIndex.action",
+            "九度": "http://ac.jobdu.com/",
+            "LeetCode": "https://oj.leetcode.com/",
+            "GCJ": "https://code.google.com/codejam/"
+        },
+        "信息安全": {
+            "Exploit Database": "https://www.exploit-db.com/",
+            "SecureMap": "http://www.securitymap.org/",
+            "DVWA" : "http://dvwa.mujj.cn/",
+            "看雪": "http://bbs.pediy.com/",
+            "WooYun": "http://wooyun.org/",
+            "信息安全实验中心": "http://www.isclab.org/",
+            "ISCC 2014 Writeup": "http://joychou.org/index.php/Misc/iscc-ctf-2014-writeup.html",
+            "Freebuf": "http://www.freebuf.com/",
+            "红客联盟" : "http://www.cnhonkerarmy.com/portal.php"
+        },
+        "Web": {
+            "W3C": "http://www.w3.org/",
+            "W3school": "http://www.w3school.com.cn/",
+            "张鑫旭": "http://www.zhangxinxu.com/wordpress/",
+            "W3C Markup Validation Service": "http://validator.w3.org/",
+            "Mozilla Developer": "https://developer.mozilla.org/zh-CN/",
+            "CSS Zeng": "http://www.csszengarden.com/",
+            "JSHint": "http://www.jshint.com/",
+            "JS1K": "http://js1k.com/",
+            "FontSquirrel": "http://www.fontsquirrel.com/",
+            "织梦": "http://www.dedecms.com/"
+        },
+        "移动端": {
+            "android开发教程": "http://www.cnblogs.com/aimeng/archive/2012/03/13/2393244.html"
+        },
+        "数据库": {
+            "万方数据库": "http://www.wanfangdata.com.cn/",
+            "中国知网": "http://www.cnki.net/",
+            "Library Genesis": "http://gen.lib.rus.ec/",
+            "ScienceDirect": "http://www.sciencedirect.com/"
+        },
+        "电子硬件": {
+            "电子发烧友": "http://www.elecfans.com/",
+            "Freescale论坛": "http://www.znczz.com/forum.php",
+            "拉普兰德电子技术": "http://www.lpld.cn/",
+            "通讯类库设计": "http://blog.csdn.net/wuyazhe/article/category/695097",
+            "CircuitLab": "https://www.circuitlab.com/",
+            "123D Circuit": "http://123d.circuits.io/",
+            "CircuitHub": "https://circuithub.com/"
+        },
+        "杂志咨询": {
+            "Science": "http://www.sciencemag.org/",
+            "Nature": "http://www.natureasia.com/zh-cn/",
+            "自动化学报": "http://www.aas.net.cn/CN/volumn/current.shtml",
+            "伯乐在线": "http://blog.jobbole.com/",
+            "CSDN": "http://www.csdn.net/",
+            "InfoQ": "http://www.infoq.com",
+            "外刊IT": "http://www.aqee.net/",
+            "IT之家": "http://www.ithome.com/"
+        },
+        "社区论坛": {
+            "Reddit": "http://www.reddit.com/",
+            "Quora": "http://www.quora.com/",
+            "Stackoverflow": "http://stackoverflow.com/",
+            "人大经济论坛": "http://bbs.pinggu.org/",
+            "博客园": "http://www.cnblogs.com/",
+            "果壳网": "http://www.guokr.com/",
+            "水木社区": "http://www.newsmth.net/",
+            "Lofter": "http://www.lofter.com/",
+            "新浪微博": "http://weibo.com/",
+            "Tumblr": "https://www.tumblr.com/",
+            "豆瓣": "http://www.douban.com/",
+            "百度贴吧": "http://tieba.baidu.com/index.html",
+            "QQ空间": "http://qzone.qq.com/",
+            "人人": "http://www.renren.com/",
+            "活动行": "http://www.huodongxing.com/",
+            "58同城": "http://bj.58.com/",
+            "Facebook": "https://www.facebook.com/",
+            "Twitter": "https://twitter.com/"
+        },
+        "外语": {
+            "日语学习网": "http://jp.tingroom.com/",
+            "Yahoo!JAPAN": "http://www.yahoo.co.jp/",
+            "VOA": "http://www.51voa.com/"
+        },
+        "轻松一下": {
+            "虾米": "http://www.xiami.com/",
+            "音悦台": "http://www.yinyuetai.com/",
+            "哀暗": "http://schwarzwei.lofter.com/",
+            "Dark World": "http://dark-world.ru/",
+            "Last.fm": "http://cn.last.fm/home",
+            "Musicovery": "http://musicovery.com/",
+            "Luoo": "http://www.luoo.net/",
+            "乐鼠无牙": "http://www.nofm.cn/",
+            "Ektoplazm": "http://www.ektoplazm.com/",
+            "音乐是岸": "http://www.mologer.cn/",
+            "麦田音乐": "http://www.mtyyw.com/",
+            "唯音乐": "http://vinmusic.com/",
+            
+            "Bangumi": "http://bangumi.tv/",
+            "Pixiv": "http://www.pixiv.net/mypage.php",
+            "萌否": "http://moefou.org/",
+            "Bilibili": "http://www.bilibili.com/",
+            "G站": "http://gelbooru.com/",
+            "B&T": "http://www.xxbt.com/",
+            "B.Wing": "http://www.lovebwing.com/",
+
+            "时光网": "http://www.mtime.com/",
+            "IMDb Top 250": "http://iptv.bupt.edu.cn/",
+            "北邮iptv": "http://iptv.bupt.edu.cn/",
+            "中科大iptv": "http://tv6.ustc.edu.cn/",
+
+            "Puzzle8": "http://www.puzzle8.com/index.asp",
+            "谈谈编程游戏": "http://tieba.baidu.com/p/3216510915",
+            "Not A Number": "http://iteratoradvance.github.io/",
+            "Chinajoy": "http://www.chinajoy.net/",
+            "Freerice": "http://freerice.com/"
+        },
+        "发现工作": {
+            "智联招聘": "http://www.zhaopin.com/",
+            "前程无忧": "http://www.51job.com/",
+            "猎聘网": "http://www.liepin.com/",
+            "大街网": "http://www.dajie.com/",
+            "海投网": "http://www.haitou.cc/",
+            "北京理工大学就业信息网": "http://job.bit.edu.cn/main.html",
+            "拉勾网": "http://www.lagou.com/"
+        },
+        "网购": {
+             "京东": "http://www.jd.com/",
+            "淘宝": "http://www.taobao.com/",
+            "天猫": "http://www.tmall.com/",
+            "1号店": "http://www.yihaodian.com/",
+            "Amazon": "http://www.amazon.cn/",
+            "当当网": "http://www.dangdang.com/",
+            "美团": "www.meituan.com/",
+            "唯品会": "http://shop.vipshop.com/",
+            "苏宁易购": "http://www.suning.com/"
+        },
+        "发现美丽": {
+            "Versace": "http://www.versace.com/",
+            "Prada": "http://www.prada.com/",
+            "Antonioli": "http://www.antonioli.eu/",
+            "Society6": "http://society6.com/",
+            "PS联盟": "http://www.68ps.com/"
+        },
+        "驴游天下": {
+            "北京旅游教育网": "http://www.bjlyjy.com/",
+            "蚂蜂窝": "http://www.mafengwo.cn/",
+            "穷游网": "http://www.qyer.com/",
+            "中国南航": "http://www.csair.com/cn/index.shtml"
+        },
+        "政府公益": {
+            "教育部": "http://www.moe.gov.cn/",
+            "志愿北京": "http://www.bv2008.cn/index.shtml",
+            "北京工商局": "http://www.hd315.gov.cn/",
+            "首都之窗": "http://www.beijing.gov.cn/",
+            "六安政府网": "http://www.luan.gov.cn/",
+            "独山政府网": "http://www.ahds.gov.cn/",
+            "中国公益广告": "http://www.cnpad.net/"
+        },
+        "经济": {
+            "东吴证券": "http://www.dwjq.com.cn/info-product/",
+            "比特币": "https://blockchain.info/zh-cn/wallet/login"
+        },
+        "国外网站": {
+            "WeThePeople": "https://petitions.whitehouse.gov/",
+            "ISO": "http://www.iso.org/iso/home.html",
+            "无国界记者": "http://rsf-chinese.org/"
+        },
+        "小工具": {
+            "Disqus": "https://disqus.com/",
+            "just ping": "http://cloudmonitor.ca.com/zh_cn/ping.php",
+            "学信网": "http://www.chsi.com.cn/",
+            "中国地震台": "http://www.ceic.ac.cn/",
+            "四六级": "http://www.ccets.org/",
+            "计算机等级": "http://ncre.bjeea.cn/web/login.jsp",
+            "RFC": "http://www.ietf.org/rfc.html",
+            "100,000 Stars": "http://workshop.chromeexperiments.com/stars/",
+            "市政交通一卡通": "http://www.hzt360.com/",
+            "短信炸弹": "http://0907tool.duapp.com/sms/",
+            "QQ空间背景音乐链接": "http://www.2ab.net/skydrive.html",
+            "IPV6工具": "http://ipv6.tsinghua.edu.cn/resource/ipv6-gong-ju/",
+            "Google Project Hosting": "https://code.google.com/hosting/",
+            "Google IPV6 Hosts": "https://code.google.com/p/ipv6-hosts/source/browse/hosts"
+        },
+        "下载": {
+            "0daydown": "http://www.0daydown.com/",
+            "大家论坛": "http://club.topsage.com/",
+            "字体下载": "http://www.fontsquirrel.com/",
+            "六维空间": "http://bt.neu6.edu.cn/",
+            "IT eBooks": "http://it-ebooks.info/",
+            "大软坊": "http://app.hustonline.net/major",
+            "锋客网": "http://www.phonekr.com/"
+        }
+    },
+
+    "common": {
+        "常用": {
+            "北理FTP联盟": "http://out.bitunion.org/",
+            "极速之星": "http://out.bitpt.cn/bbs/forum.php",
+            "新浪微博": "http://weibo.com/",
+            "QQ空间": "http://qzone.qq.com/",
+            "Luoo": "http://www.luoo.net/"
+        }
+    },
+
+    "recent": {
+        "最近": {
+            "虾米": "http://www.xiami.com/"
+        }
+    }
+}
