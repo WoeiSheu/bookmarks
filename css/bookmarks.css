@@ -28,17 +28,17 @@ body > nav.navbar-static-top {
     margin-bottom: -12px;
 }
 .sidebar > img {
-    -webkit-transition: all 2s ease-in-out;
-    -moz-transition: all 2s ease-in-out;
-    -o-transition: all 2s ease-in-out;
-    transition: all 2s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
 }
 .sidebar > img:hover {
-     -webkit-transform: rotate(360deg);
-     -moz-transform: rotate(360deg);
-     -o-transform: rotate(360deg);
-     -ms-transform: rotate(360deg);
-     transform: rotate(360deg);
+     -webkit-transform: rotate(120deg);
+     -moz-transform: rotate(120deg);
+     -o-transform: rotate(120deg);
+     -ms-transform: rotate(120deg);
+     transform: rotate(120deg);
 }
 .sidebar > p {
     font-style: italic;
@@ -51,9 +51,9 @@ body > nav.navbar-static-top {
 }
 @-moz-keyframes SpeedIn{
     0%{
-        left:-1500px;
+        left:-300px;
         top:50px;
-        opacity:0.7;
+        opacity:0.2;
         -moz-transform:rotate(0deg) scaleX(1) scaleY(1);
     }
     60%{
@@ -61,7 +61,7 @@ body > nav.navbar-static-top {
         opacity:0.8;
     }
     80%{
-        left:-10px;
+        left:-20px;
         opacity:0.9;
     }
     100%{
@@ -73,9 +73,9 @@ body > nav.navbar-static-top {
 }
 @-webkit-keyframes SpeedIn{
     0%{
-        left:-1500px;
+        left:-300px;
         top:50px;
-        opacity:0.7;
+        opacity:0.2;
         -webkit-transform:rotate(0deg) scaleX(1) scaleY(1);
     }
     60%{
@@ -83,7 +83,7 @@ body > nav.navbar-static-top {
         opacity:0.8;
     }
     80%{
-        left:-10px;
+        left:-20px;
         opacity:0.9;
     }
     100%{
@@ -95,9 +95,9 @@ body > nav.navbar-static-top {
 }
 @-ms-keyframes SpeedIn{
     0%{
-        left:-1500px;
+        left:-300px;
         top:50px;
-        opacity:0.7;
+        opacity:0.2;
         -ms-transform:rotate(0deg) scaleX(1) scaleY(1);
     }
     60%{
@@ -105,7 +105,7 @@ body > nav.navbar-static-top {
         opacity:0.8;
     }
     80%{
-        left:-10px;
+        left:-20px;
         opacity:0.9;
     }
     100%{
