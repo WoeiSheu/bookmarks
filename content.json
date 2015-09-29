@@ -22,7 +22,8 @@
             "石桥驿站": "http://bbs.bit.edu.cn/",
             "京工世纪论坛": "http://bbs.century.bit.edu.cn/bbs/index.php",
             "基础教育学院": "http://sla.bit.edu.cn/",
-            "北理工电视台": "http://bittv.bit.edu.cn/"
+            "北理工电视台": "http://bittv.bit.edu.cn/",
+            "iptv": "http://iptv.bit.edu.cn/pc.asp?id=133"
         },
         "在线教育": {
             "Codecademy": "http://www.codecademy.com/zh/dashboard",
@@ -136,7 +137,11 @@
             "外刊IT": "http://www.aqee.net/",
             "IT之家": "http://www.ithome.com/"
         },
+        "电子书": {
+            "instapaper": "https://www.instapaper.com/u"
+        },
         "社区论坛": {
+            "realworldtech": "http://www.realworldtech.com/",
             "freenode IRC": "http://webchat.freenode.net/",
             "V2EX": "http://www.v2ex.com/",
             "Reddit": "http://www.reddit.com/",
@@ -274,6 +279,7 @@
             "Google IPV6 Hosts": "https://code.google.com/p/ipv6-hosts/source/browse/hosts"
         },
         "下载": {
+            "SaltTiger": "http://www.salttiger.com/",
             "0daydown": "http://www.0daydown.com/",
             "HDbiger": "https://hdbiger.org/login.php",
             "大家论坛": "http://club.topsage.com/",
@@ -299,7 +305,8 @@
             "新浪微博": "http://weibo.com/",
             "QQ空间": "http://qzone.qq.com/",
             "Luoo": "http://www.luoo.net/",
-            "LightSS": "https://www.lightss.xyz/"
+            "LightSS": "https://www.lightss.xyz/",
+            "SaltTiger": "http://www.salttiger.com/"
         }
     },
 
