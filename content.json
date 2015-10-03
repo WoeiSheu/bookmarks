@@ -30,7 +30,7 @@
             "实验楼": "http://www.shiyanlou.com/courses/",
             "Coursera": "https://www.coursera.org/",
             "七月算法": "http://www.julyedu.com/",
-            "Udacityh": "ttps://www.udacity.com/",
+            "Udacityh": "https://www.udacity.com/",
             "网络公开课导航": "http://www.edu.cn/html/opencourse/index.shtml",
             "我要自学网": "http://www.51zxw.net/",
             "传智播客": "http://www.itcast.cn/"
@@ -307,6 +307,13 @@
             "Luoo": "http://www.luoo.net/",
             "LightSS": "https://www.lightss.xyz/",
             "SaltTiger": "http://www.salttiger.com/"
+        },
+        "专注": {
+            "英语": "http://www.economist.com/",
+            "日语": "http://study.163.com/course/courseMain.htm?courseId=243001",
+            "Android": "http://www.chuanke.com/1432070-117405.html?statistics_channel_id=409&statistics_uid=15",
+            "算法": "https://leetcode.com/",
+            "机器学习": "http://www.julyedu.com/"
         }
     },
 
