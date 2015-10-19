@@ -84,6 +84,7 @@
         },
         "信息安全": {
             "Exploit Database": "https://www.exploit-db.com/",
+            "社工库": "http://sheyun.org/index.html",
             "SecureMap": "http://www.securitymap.org/",
             "DVWA" : "http://dvwa.mujj.cn/",
             "看雪": "http://bbs.pediy.com/",
