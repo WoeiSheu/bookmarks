@@ -19,7 +19,7 @@ function loadLinks(classification){
 }
 
 function init() {
-    loadLinks("all");
+    loadLinks("common");
     $("div.main h2.sub-header").text("All Links");
 }
 
