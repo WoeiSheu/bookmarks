@@ -101,6 +101,9 @@
             "红客联盟" : "http://www.cnhonkerarmy.com/portal.php"
         },
         "Web": {
+            "Conoha": "https://manage.conoha.jp/Dashboard/",
+            "CloudFlare": "https://www.cloudflare.com/",
+            "LetsEncrypt": "https://letsencrypt.org/",
             "W3C": "http://www.w3.org/",
             "W3school": "http://www.w3school.com.cn/",
             "D3": "http://d3js.org/",
@@ -113,11 +116,11 @@
             "Webfont generator": "http://www.fontsquirrel.com/tools/webfont-generator",
             "织梦": "http://www.dedecms.com/"
         },
-        "移动端": {
+        "移动开发": {
             "Genymotion ": "https://www.genymotion.com/#!/",
             "android开发教程": "http://www.cnblogs.com/aimeng/archive/2012/03/13/2393244.html"
         },
-        "数据库": {
+        "文献库": {
             "万方数据库": "http://www.wanfangdata.com.cn/",
             "中国知网": "http://www.cnki.net/",
             "Library Genesis": "http://gen.lib.rus.ec/",
