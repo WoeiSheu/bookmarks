@@ -26,6 +26,7 @@
             "iptv": "http://iptv.bit.edu.cn/pc.asp?id=133"
         },
         "在线教育": {
+            "OCW(MIT)": "http://ocw.mit.edu/index.htm",
             "Codecademy": "http://www.codecademy.com/zh/dashboard",
             "实验楼": "http://www.shiyanlou.com/courses/",
             "Coursera": "https://www.coursera.org/",
@@ -83,7 +84,7 @@
             "北理ACM": "http://acm.bit.edu.cn/",
             "Virtual Judge": "http://vjudge.net/toIndex.action",
             "九度": "http://ac.jobdu.com/",
-            "LeetCode": "https://oj.leetcode.com/",
+            "LeetCode": "https://leetcode.com/",
             "hihoCoder": "http://hihocoder.com/",
             "GCJ": "https://code.google.com/codejam/"
         },
@@ -290,6 +291,7 @@
         "下载": {
             "SaltTiger": "http://www.salttiger.com/",
             "0daydown": "http://www.0daydown.com/",
+            "OppsU!": "http://www.oppsu.cn/",
             "HDbiger": "https://hdbiger.org/login.php",
             "大家论坛": "http://club.topsage.com/",
             "字体下载": "http://www.fontsquirrel.com/",
@@ -308,6 +310,7 @@
 
     "common": {
         "常用": {
+            "OCW(MIT)": "http://ocw.mit.edu/index.htm",
             "北理FTP联盟": "http://out.bitunion.org/",
             "极速之星": "http://out.bitpt.cn/bbs/forum.php",
             "虾米": "http://www.xiami.com/",
@@ -315,7 +318,8 @@
             "QQ空间": "http://qzone.qq.com/",
             "Luoo": "http://www.luoo.net/",
             "LightSS": "https://www.shadowsocksx.me/",
-            "SaltTiger": "http://www.salttiger.com/"
+            "SaltTiger": "http://www.salttiger.com/",
+            "Freelancer": "https://www.freelancer.com/dashboard/"
         },
         "专注": {
             "英语": "http://www.economist.com/",
