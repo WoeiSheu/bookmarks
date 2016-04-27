@@ -60,3 +60,7 @@ $("#recentLinks").click(function() {
     $('#links').empty();
     loadLinks("recent");
 });
+
+$("#search").on('input',function() {
+    console.log( this.value );
+});

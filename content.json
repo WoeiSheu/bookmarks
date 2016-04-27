@@ -48,6 +48,7 @@
             "阮一峰": "http://www.ruanyifeng.com/home.html",
             "代码家": "http://blog.daimajia.com/",
             "邱俊涛": "http://icodeit.org/",
+            "StormZhang": "http://stormzhang.com/",
             "风雪之隅": "http://www.laruence.com/",
             "Simple Mind": "http://simplemind.info/blog/",
             "张鑫旭": "http://www.zhangxinxu.com/wordpress/",
@@ -64,15 +65,15 @@
         },
         "运维": {
             "Linux运维": "http://www.centos.bz/",
-            "内外键": "http://blog.csdn.net/xrt95050/article/details/5556411"
+            "阿里云开发者": "https://dev.aliyun.com/search.html"
         },
         "编程语言": {
             "Pimsleur": "http://www.pimsleur.com/",
-            "C++ Resources": "http://www.cplusplus.com/",
             "C Programming": "http://www.cprogramming.com/",
             "The C Library Reference Guide": "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/",
             "C History": "http://cm.bell-labs.com/cm/cs/who/dmr/chist.html",
-            "编程爱好者": "http://www.programfan.com/acm/"
+            "Haskell Maillist": "https://wiki.haskell.org/Mailing_lists",
+            "Practical Haskell": "http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html"
         },
         "算法": {
             "堆与排序": "http://blog.csdn.net/morewindows/article/details/6709644",
@@ -84,11 +85,14 @@
             "北理ACM": "http://acm.bit.edu.cn/",
             "Virtual Judge": "http://vjudge.net/toIndex.action",
             "九度": "http://ac.jobdu.com/",
+            "HackerRank": "https://www.hackerrank.com/domains",
             "LeetCode": "https://leetcode.com/",
+            "Leetcode分类": "http://www.douban.com/note/330562764/",
             "hihoCoder": "http://hihocoder.com/",
             "GCJ": "https://code.google.com/codejam/"
         },
         "信息安全": {
+            "H.K.ME": "http://h-k.me/",
             "Exploit Database": "https://www.exploit-db.com/",
             "社工库": "http://sheyun.org/index.html",
             "SecureMap": "http://www.securitymap.org/",
@@ -102,9 +106,13 @@
             "红客联盟" : "http://www.cnhonkerarmy.com/portal.php"
         },
         "Web": {
+            "IBM Django": "http://www.ibm.com/developerworks/cn/linux/l-django/",
+            "Rails开发の坑": "https://ruby-china.org/topics/24742",
+            "uWSGI": "http://www.nowamagic.net/academy/detail/1330331",
             "Conoha": "https://manage.conoha.jp/Dashboard/",
             "CloudFlare": "https://www.cloudflare.com/",
             "LetsEncrypt": "https://letsencrypt.org/",
+            "CSS Diner": "http://flukeout.github.io/",
             "W3C": "http://www.w3.org/",
             "W3school": "http://www.w3school.com.cn/",
             "D3": "http://d3js.org/",
@@ -119,13 +127,31 @@
         },
         "移动开发": {
             "Genymotion ": "https://www.genymotion.com/#!/",
-            "android开发教程": "http://www.cnblogs.com/aimeng/archive/2012/03/13/2393244.html"
+            "android开发教程": "http://www.cnblogs.com/aimeng/archive/2012/03/13/2393244.html",
+            "Android Studio配置": "http://www.cnblogs.com/smyhvae/p/4456420.html",
+            "Android开发的坑": "https://www.zhihu.com/question/27818921",
+            "XDA forum": "http://forum.xda-developers.com/"
         },
-        "文献库": {
+        "AI": {
+            "MLA15": "http://lamda.nju.edu.cn/conf/mla15/program.htm",
+            "WildML": "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/",
+            "52NLP": "http://www.52nlp.cn/",
+            "GDELT": "http://gdeltproject.org/data.html",
+            "DMLC": "http://dmlc.ml/",
+            "OffConvex": "http://www.offconvex.org/",
+            "识别网站验证码": "http://drops.wooyun.org/tips/6313"
+        },
+        "资料库": {
+            "Liggle": "http://linggle.com/#",
+            "Arxiv": "https://arxiv.org/",
+            "Sci-Hub": "http://sci-hub.io/",
             "万方数据库": "http://www.wanfangdata.com.cn/",
             "中国知网": "http://www.cnki.net/",
+            "CNKI PDF脚步": "http://blog.yuelong.info/post/cnki-pdf-js.html",
             "Library Genesis": "http://gen.lib.rus.ec/",
-            "ScienceDirect": "http://www.sciencedirect.com/"
+            "ScienceDirect": "http://www.sciencedirect.com/",
+            "JOURNAL SEARCH": "http://science.thomsonreuters.com/cgi-bin/jrnlst/jlsearch.cgi?PC=D",
+            "Monosko": "https://monoskop.org/Monoskop"
         },
         "电子硬件": {
             "电子发烧友": "http://www.elecfans.com/",
@@ -176,6 +202,9 @@
             "码农圈": "https://coderq.com/top"
         },
         "外语": {
+            "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
+            "沪江N5": "cichang.hujiang.com/book/1510532196757855",
+            "NHK简明日语": "http://www.nhk.or.jp/lesson/chinese/",
             "日语学习网": "http://jp.tingroom.com/",
             "Yahoo!JAPAN": "http://www.yahoo.co.jp/",
             "VOA": "http://www.51voa.com/"
@@ -215,6 +244,7 @@
             "Freerice": "http://freerice.com/"
         },
         "发现工作": {
+            "Freelancer": "https://www.freelancer.com/dashboard/",
             "牛课网": "http://www.nowcoder.com/",
             "水木社区": "http://www.newsmth.net/nForum/#!board/Intern",
             "智联招聘": "http://www.zhaopin.com/",
@@ -290,9 +320,11 @@
         },
         "下载": {
             "SaltTiger": "http://www.salttiger.com/",
+            "IT Books": "http://www.allitebooks.com/",
             "0daydown": "http://www.0daydown.com/",
             "OppsU!": "http://www.oppsu.cn/",
             "HDbiger": "https://hdbiger.org/login.php",
+            "StockUp": "http://www.sitebuilderreport.com/stock-up",
             "大家论坛": "http://club.topsage.com/",
             "字体下载": "http://www.fontsquirrel.com/",
             "六维空间": "http://bt.neu6.edu.cn/",
@@ -323,12 +355,17 @@
         },
         "专注": {
             "英语": "http://www.economist.com/",
-            "日语": "http://study.163.com/course/courseMain.htm?courseId=243001",
+            "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
+            "网易日语": "http://study.163.com/course/courseMain.htm?courseId=243001",
             "日语N5基础词汇": "http://cichang.hujiang.com/book/1510532196757855",
             "Android": "http://www.chuanke.com/1432070-117405.html?statistics_channel_id=409&statistics_uid=15",
             "算法": "https://leetcode.com/",
             "机器学习": "https://plus.google.com/u/0/",
             "笔面试": "http://www.nowcoder.com/"
+        },
+        "HLA": {
+            "Portico": "http://www.programcreek.com/java-api-examples/index.php?source_dir=portico-master",
+            "Pitch": "http://www.pitchtechnologies.com/"
         }
     },
 
