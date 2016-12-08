@@ -3,6 +3,7 @@
     "all": {
         "校内": {
             "校内导航": "http://www.bit.edu.cn/dhw/zxs/index.htm",
+            "研究生管理系统": "http://grdms.bit.edu.cn/yjs/login.jsp",
             "北理工官网": "http://www.bit.edu.cn/",
             "北理FTP联盟(外)": "http://out.bitunion.org/",
             "北理FTP联盟(内)": "http://www.bitunion.org/",
@@ -25,6 +26,12 @@
             "北理工电视台": "http://bittv.bit.edu.cn/",
             "iptv": "http://iptv.bit.edu.cn/pc.asp?id=133"
         },
+        "学术": {
+            "Microsoft Academic": "http://academic.research.microsoft.com",
+            "Nature": "http://www.nature.com",
+            "Science": "http://www.sciencemag.org",
+            "Linggle": "http://linggle.com"
+        },
         "在线教育": {
             "OCW(MIT)": "http://ocw.mit.edu/index.htm",
             "Codecademy": "http://www.codecademy.com/zh/dashboard",
@@ -45,6 +52,7 @@
         },
         "Blog": {
             "酷壳": "http://coolshell.cn/",
+            "廖雪峰": "http://www.liaoxuefeng.com/",
             "阮一峰": "http://www.ruanyifeng.com/home.html",
             "代码家": "http://blog.daimajia.com/",
             "邱俊涛": "http://icodeit.org/",
@@ -61,6 +69,7 @@
             "胡凯": "http://hukai.me/",
             "依云": "http://lilydjwg.is-programmer.com/",
             "AppleU0": "http://appleu0.sinaapp.com/",
+            "Lazy Mind": "http://lazymind.me/",
             "Frantic": "https://frantic1048.com/"
         },
         "运维": {
@@ -106,6 +115,8 @@
             "红客联盟" : "http://www.cnhonkerarmy.com/portal.php"
         },
         "Web": {
+            "墨刀": "https://modao.cc",
+            "Unify": "http://wrapbootstrap.com/preview/WB0412697",
             "IBM Django": "http://www.ibm.com/developerworks/cn/linux/l-django/",
             "Rails开发の坑": "https://ruby-china.org/topics/24742",
             "uWSGI": "http://www.nowamagic.net/academy/detail/1330331",
@@ -183,6 +194,7 @@
             "Reddit": "http://www.reddit.com/",
             "Quora": "http://www.quora.com/",
             "Stackoverflow": "http://stackoverflow.com/",
+            "知远防务论坛": "forum.defence.org.cn",
             "人大经济论坛": "http://bbs.pinggu.org/",
             "博客园": "http://www.cnblogs.com/",
             "果壳网": "http://www.guokr.com/",
@@ -268,6 +280,7 @@
             "苏宁易购": "http://www.suning.com/"
         },
         "发现美丽": {
+            "Pinterest": "https://www.pinterest.com",
             "Models": "http://models.com/",
             "Versace": "http://www.versace.com/",
             "Prada": "http://www.prada.com/",
@@ -301,6 +314,7 @@
             "无国界记者": "http://rsf-chinese.org/"
         },
         "小工具": {
+            "Quip": "https://quip.com/browse",
             "waifu2x": "http://waifu2x.udp.jp/",
             "Disqus": "https://disqus.com/",
             "多说": "http://hypocrisy.duoshuo.com/admin/",
@@ -320,6 +334,7 @@
         },
         "下载": {
             "SaltTiger": "http://www.salttiger.com/",
+            "Office Plus": "http://www.officeplus.cn",
             "IT Books": "http://www.allitebooks.com/",
             "0daydown": "http://www.0daydown.com/",
             "OppsU!": "http://www.oppsu.cn/",
@@ -331,6 +346,7 @@
             "IT eBooks": "http://it-ebooks.info/",
             "大软坊": "http://app.hustonline.net/major",
             "msdnitellyou": "http://msdn.itellyou.cn/",
+            "酷安网": "http://www.coolapk.com",
             "锋客网": "http://www.phonekr.com/"
         },
         "不存在": {
@@ -372,6 +388,12 @@
     "recent": {
         "最近": {
             "虾米": "http://www.xiami.com/"
+        },
+        "学术": {
+            "Microsoft Academic": "http://academic.research.microsoft.com",
+            "Nature": "http://www.nature.com",
+            "Science": "http://www.sciencemag.org",
+            "Linggle": "http://linggle.com"
         },
         "待整理": {
             "编程面试过程中常见的10大算法": "http://www.imooc.com/wenda/detail/262672",
