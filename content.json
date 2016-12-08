@@ -369,6 +369,12 @@
             "SaltTiger": "http://www.salttiger.com/",
             "Freelancer": "https://www.freelancer.com/dashboard/"
         },
+        "学术": {
+            "Microsoft Academic": "http://academic.research.microsoft.com",
+            "Nature": "http://www.nature.com",
+            "Science": "http://www.sciencemag.org",
+            "Linggle": "http://linggle.com"
+        },
         "专注": {
             "英语": "http://www.economist.com/",
             "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
@@ -379,7 +385,7 @@
             "机器学习": "https://plus.google.com/u/0/",
             "笔面试": "http://www.nowcoder.com/"
         },
-        "HLA": {
+        "分布式": {
             "Portico": "http://www.programcreek.com/java-api-examples/index.php?source_dir=portico-master",
             "Pitch": "http://www.pitchtechnologies.com/"
         }
@@ -388,12 +394,6 @@
     "recent": {
         "最近": {
             "虾米": "http://www.xiami.com/"
-        },
-        "学术": {
-            "Microsoft Academic": "http://academic.research.microsoft.com",
-            "Nature": "http://www.nature.com",
-            "Science": "http://www.sciencemag.org",
-            "Linggle": "http://linggle.com"
         },
         "待整理": {
             "编程面试过程中常见的10大算法": "http://www.imooc.com/wenda/detail/262672",
