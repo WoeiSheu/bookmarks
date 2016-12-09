@@ -28,6 +28,14 @@
         },
         "学术": {
             "Microsoft Academic": "http://academic.research.microsoft.com",
+            "Scimago": "http://www.scimagojr.com/index.php",
+            "Arxiv": "https://arxiv.org/",
+            "Sci-Hub": "http://sci-hub.cc/",
+            "万方数据库": "http://www.wanfangdata.com.cn/",
+            "中国知网": "http://www.cnki.net/",
+            "Library Genesis": "http://gen.lib.rus.ec/",
+            "ScienceDirect": "http://www.sciencedirect.com/",
+            "JOURNAL SEARCH": "http://science.thomsonreuters.com/cgi-bin/jrnlst/jlsearch.cgi?PC=D",
             "Nature": "http://www.nature.com",
             "Science": "http://www.sciencemag.org",
             "Linggle": "http://linggle.com"
@@ -371,6 +379,14 @@
         },
         "学术": {
             "Microsoft Academic": "http://academic.research.microsoft.com",
+            "Scimago": "http://www.scimagojr.com/index.php",
+            "Arxiv": "https://arxiv.org/",
+            "Sci-Hub": "http://sci-hub.cc/",
+            "万方数据库": "http://www.wanfangdata.com.cn/",
+            "中国知网": "http://www.cnki.net/",
+            "Library Genesis": "http://gen.lib.rus.ec/",
+            "ScienceDirect": "http://www.sciencedirect.com/",
+            "JOURNAL SEARCH": "http://science.thomsonreuters.com/cgi-bin/jrnlst/jlsearch.cgi?PC=D",
             "Nature": "http://www.nature.com",
             "Science": "http://www.sciencemag.org",
             "Linggle": "http://linggle.com"
