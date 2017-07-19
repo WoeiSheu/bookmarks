@@ -102,7 +102,7 @@
       "Kickstarter": "https://www.kickstarter.com/",
       "比特币": "https://blockchain.info/zh-cn/wallet/login"
     },
-    "LearningOnline": {
+    "Courses": {
       "OCW(MIT)": "http://ocw.mit.edu/index.htm",
       "Codecademy": "http://www.codecademy.com/zh/dashboard",
       "edX": "https://www.edx.org/",
@@ -380,7 +380,7 @@
   },
 
   "common": {
-    "Frequently ": {
+    "Frequently": {
       "OCW(MIT)": "http://ocw.mit.edu/index.htm",
       "北理FTP联盟": "http://bitunion.org/",
       "虾米": "http://www.xiami.com/",
