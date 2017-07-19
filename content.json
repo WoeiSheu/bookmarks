@@ -256,6 +256,8 @@
       "CircuitHub": "https://circuithub.com/"
     },
     "News&Info": {
+      "Feedly": "https://feedly.com/i/my",
+      "Pocket": "https://getpocket.com/",
       "北纬40": "http://www.bw40.net/",
       "Science": "http://www.sciencemag.org/",
       "Nature": "http://www.natureasia.com/zh-cn/",
@@ -306,6 +308,8 @@
       "苏宁易购": "http://www.suning.com/"
     },
     "Material": {
+      "Bentsui": "http://www.bentsuiphotos.com/",
+      "LesEnfants": "https://les-enfants.tv/en/",
       "Pinterest": "https://www.pinterest.com",
       "Models": "http://models.com/",
       "Versace": "http://www.versace.com/",
@@ -353,6 +357,7 @@
       "SaltTiger": "http://www.salttiger.com/",
       "六维空间": "http://bt.neu6.edu.cn/",
       "北邮人": "http://bt.byr.cn/",
+      "Mega": "https://mega.nz",
       "Office Plus": "http://www.officeplus.cn",
       "0daydown": "http://www.0daydown.com/",
       "OppsU!": "http://www.oppsu.cn/",
@@ -381,6 +386,7 @@
       "虾米": "http://www.xiami.com/",
       "新浪微博": "http://weibo.com/",
       "Luoo": "http://www.luoo.net/",
+      "Bentsui": "http://www.bentsuiphotos.com/",
       "SaltTiger": "http://www.salttiger.com/"
     },
     "Study": {
@@ -404,7 +410,8 @@
     },
     "Webpack": {
       "Webpack 2入门教程": "https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/",
-      "入门Webpack": "http://www.jianshu.com/p/42e11515c10f#"
+      "入门Webpack": "http://www.jianshu.com/p/42e11515c10f#",
+      "webpack脚手架": "https://segmentfault.com/a/1190000007972133"
     },
     "Stocks": {
       "果仁网": "https://guorn.com/",
@@ -423,6 +430,10 @@
       "Pitch": "http://www.pitchtechnologies.com/"
     },
     "Unarranged": {
+      "Using Web-Workers": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers",
+      "分布式系统的事务处理": "http://coolshell.cn/articles/10910.html",
+      "航行资料汇编": "http://www.eaipchina.cn/Login.aspx",
+      "Velocity": "http://velocityjs.org/",
       "GECOO2017": "http://gecco-2017.sigevo.org/index.html/HomePage",
       "Welcome to emergency mode": "https://askubuntu.com/questions/646414/welcome-to-emergency-mode-think-it-is-a-fsck-problem",
       "Hangouts": "https://hangouts.google.com/",
