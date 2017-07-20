@@ -192,6 +192,12 @@ div.container-fluid div.main {
     top: 50px;
     padding-left: 30px;
 }
+@media(max-width: 768px) {
+  div.container-fluid div.main {
+    margin-left: 0px;
+    width: 100%;
+  }
+}
 
 div.container-fluid div.main table.table a,
 a:hover,
