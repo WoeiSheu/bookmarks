@@ -82,18 +82,18 @@ body > nav.navbar-static-top {
     font-family: "Homestead Inline", "Glyphicons Halflings";
     margin-bottom: -12px;
 }
-.sidebar > img {
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+#logo > img {
+    -webkit-transition: all 1.5s ease-in-out;
+    -moz-transition: all 1.5s ease-in-out;
+    -o-transition: all 1.5s ease-in-out;
+    transition: all 1.5s ease-in-out;
 }
-.sidebar > img:hover {
-     -webkit-transform: rotate(120deg);
-     -moz-transform: rotate(120deg);
-     -o-transform: rotate(120deg);
-     -ms-transform: rotate(120deg);
-     transform: rotate(120deg);
+#logo > img:hover {
+    -webkit-transform: rotate(720deg);
+    -moz-transform: rotate(720deg);
+    -o-transform: rotate(720deg);
+    -ms-transform: rotate(720deg);
+    transform: rotate(720deg);
 }
 .sidebar > p {
     font-style: italic;
@@ -177,7 +177,7 @@ body > nav.navbar-static-top {
     }
 }
 
-div.container-fluid a{
+div.container-fluid a {
     color: #ffffff;
 }
 div.container-fluid a:hover,

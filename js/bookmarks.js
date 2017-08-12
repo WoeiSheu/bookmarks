@@ -35,22 +35,33 @@ $("#contact").popover({
 
 $("#allLinks").click(function() {
   $("div.main h2.sub-header").text("All Links");
+  toggleActive('#allLinks');
   //$('#links').remove();   //删除选中元素
   $('#links').empty();    //删除选中元素的子元素
   loadLinks("all");
 });
-
 $("#commonLinks").click(function() {
   $("div.main h2.sub-header").text("Common Links");
+  toggleActive('#commonLinks');
   $('#links').empty();
   loadLinks("common");
 });
-
 $("#recentLinks").click(function() {
   $("div.main h2.sub-header").text("Recent Links");
+  toggleActive('#recentLinks');
   $('#links').empty();
   loadLinks("recent");
 });
+function toggleActive(id) {
+  $('#navbar ul li').removeClass('active');
+  $(id).addClass('active');
+};
+
+
+$('#logo').click(function() {
+  window.location.href = 'https://hypocrisy.info';
+});
+
 
 $("#search").on('input',function() {
   console.log( this.value );
