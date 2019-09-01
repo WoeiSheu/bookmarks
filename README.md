@@ -3,6 +3,6 @@ bookmarks
 
 ### Keep a record of my bookmarks
 ------
-#### Go to <http://hypocrisy.info/bookmarks/>
+#### Go to <http://xuwei.fun/bookmarks/>
 ------
-use jquery and bootstrap.
+Using jquery and bootstrap.
