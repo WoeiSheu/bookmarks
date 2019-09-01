@@ -30,7 +30,7 @@
     },
     "Academic": {
       "GoogleScholar": "https://yuzhen.life/scholar",
-      "SciHub": "http://sci-hub.cc/",
+      "SciHub": "http://sci-hub.tw/",
       "MicrosoftAcademic": "http://academic.research.microsoft.com",
       "Feedly": "https://feedly.com/i/my",
       "Grammarly": "https://app.grammarly.com/",
@@ -105,7 +105,7 @@
       "Kickstarter": "https://www.kickstarter.com/",
       "比特币": "https://blockchain.info/zh-cn/wallet/login"
     },
-    "Courses": {
+    "Course": {
       "OCW(MIT)": "http://ocw.mit.edu/index.htm",
       "Codecademy": "http://www.codecademy.com/zh/dashboard",
       "edX": "https://www.edx.org/",
@@ -116,18 +116,33 @@
       "网络公开课导航": "http://www.edu.cn/html/opencourse/index.shtml",
       "传智播客": "http://www.itcast.cn/"
     },
-    "Languages": {
-      "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
-      "沪江N5": "cichang.hujiang.com/book/1510532196757855",
-      "NHK简明日语": "http://www.nhk.or.jp/lesson/chinese/",
-      "日语学习网": "http://jp.tingroom.com/",
-      "Yahoo!JAPAN": "http://www.yahoo.co.jp/",
+    "English": {
+      "Shanbay": "https://www.shanbay.com/",
       "VOA": "http://www.51voa.com/"
     },
-    "HaveFun": {
+    "Japanese": {
+      "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
+      "OJAD": "http://www.gavo.t.u-tokyo.ac.jp/ojad/",
+      "AnkiWeb": "https://ankiweb.net/decks/",
+      "Souka": "https://soukaapp.com/",
+      "日本語コロケーションテストペ": "http://collocation.hyogen.info/",
+      "用例jp": "http://yourei.jp/",
+      "日本語表現インフォ": "http://hyogen.info/",
+      "诸神字幕组": "http://www.kamigami.org/",
+      "追新番": "http://www.zhuixinfan.com/main.php",
+      "沪江N2": "https://cichang.hujiang.com/book/1513215433304543",
+      "和风日语": "http://www.jpwind.com/#!/index",
+      "NHK简明日语": "http://www.nhk.or.jp/lesson/chinese/",
+      "日语学习网": "http://jp.tingroom.com/",
+      "早道日语": "http://jp.izaodao.com/",
+      "Yahoo!JAPAN": "http://www.yahoo.co.jp/"
+    },
+    "Music": {
+      "Music Theory": "https://www.music-theory-for-musicians.com/music-theory-beginners.html",
       "虾米": "http://www.xiami.com/",
       "音悦台": "http://www.yinyuetai.com/",
       "哀暗": "http://schwarzwei.lofter.com/",
+      "树下论坛": "http://www.hires.cn/forum.php",
       "Dark World": "http://dark-world.ru/",
       "Last.fm": "http://cn.last.fm/home",
       "Musicovery": "http://musicovery.com/",
@@ -137,7 +152,11 @@
       "音乐是岸": "http://www.mologer.cn/",
       "麦田音乐": "http://www.mtyyw.com/",
       "唯音乐": "http://vinmusic.com/",
-        
+      "TheoryLesson": "https://www.musictheory.net/",
+      "Ear Training": "http://tonedear.com/",
+      "Teoria": "https://www.teoria.com/index.php"
+    },
+    "Video": {  
       "Bangumi": "http://bangumi.tv/",
       "Pixiv": "http://www.pixiv.net/mypage.php",
       "萌否": "http://moefou.org/",
@@ -145,11 +164,12 @@
       "G站": "http://gelbooru.com/",
       "B&T": "http://www.xxbt.com/",
       "B.Wing": "http://www.lovebwing.com/",
-
       "时光网": "http://www.mtime.com/",
-      "IMDb Top 250": "http://iptv.bupt.edu.cn/",
-      "北邮iptv": "http://iptv.bupt.edu.cn/",
-      "中科大iptv": "http://tv6.ustc.edu.cn/",
+      "IMDb Top 250": "http://www.imdb.com/chart/top",
+      "北邮iptv": "http://tv.byr.cn/",
+      "中科大iptv": "http://tv6.ustc.edu.cn/"
+    },
+    "Game": {
       "天凤": "http://tenhou.net/0/",
       "加拿大国标麻将协会": "http://www.mahjong-ca.org/",
       "Puzzle8": "http://www.puzzle8.com/index.asp",
@@ -159,7 +179,7 @@
       "Chinajoy": "http://www.chinajoy.net/",
       "Freerice": "http://freerice.com/"
     },
-    "Jobs": {
+    "Job": {
       "Freelancer": "https://www.freelancer.com/dashboard/",
       "牛课网": "http://www.nowcoder.com/",
       "水木社区": "http://www.newsmth.net/nForum/#!board/Intern",
@@ -371,7 +391,6 @@
       "大家论坛": "http://club.topsage.com/",
       "字体下载": "http://www.fontsquirrel.com/",
       "IT eBooks": "http://it-ebooks.info/",
-      "大软坊": "http://app.hustonline.net/major",
       "msdnitellyou": "http://msdn.itellyou.cn/",
       "酷安网": "http://www.coolapk.com",
       "锋客网": "http://www.phonekr.com/"
@@ -393,21 +412,59 @@
       "Bentsui": "http://www.bentsuiphotos.com/",
       "SaltTiger": "http://www.salttiger.com/"
     },
+    "Japanese": {
+      "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
+      "OJAD": "http://www.gavo.t.u-tokyo.ac.jp/ojad/",
+      "AnkiWeb": "https://ankiweb.net/decks/",
+      "Souka": "https://soukaapp.com/",
+      "日本語コロケーションテストペ": "http://collocation.hyogen.info/",
+      "用例jp": "http://yourei.jp/",
+      "日本語表現インフォ": "http://hyogen.info/",
+      "诸神字幕组": "http://www.kamigami.org/",
+      "追新番": "http://www.zhuixinfan.com/main.php",
+      "沪江N2": "https://cichang.hujiang.com/book/1513215433304543",
+      "和风日语": "http://www.jpwind.com/#!/index",
+      "NHK简明日语": "http://www.nhk.or.jp/lesson/chinese/",
+      "日语学习网": "http://jp.tingroom.com/",
+      "早道日语": "http://jp.izaodao.com/",
+      "Yahoo!JAPAN": "http://www.yahoo.co.jp/"
+    },
+    "Psycology": {
+      "简单心理": "http://www.jiandanxinli.com/",
+      "Apesk": "http://www.apesk.com/xinliceshi/"
+    },
+    "Blockchain" :{
+      "Bitcoin source code": "https://github.com/bitcoin/bitcoin",
+      "Ethereum source code": "https://github.com/ethereum/go-ethereum",
+      "EOS source code": "https://github.com/EOSIO/eos",
+      "Blockchain": "https://www.blockchain.com/",
+      "Blockchain Specialization in Coursera": "https://www.coursera.org/specializations/blockchain",
+      "IBM Blockchain Foundation for Developers": "https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/home/welcome",
+      "深入浅出：从一笔比特币交易的生命周期看懂区块链技术": "http://www.woshipm.com/blockchain/962922.html",
+      "Etherscan": "https://etherscan.io/",
+      "以太坊官网文档中文版": "http://wiki.jikexueyuan.com/project/ethereum/",
+      "Ethereum White Paper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+      "Blockexplorer": "https://blockexplorer.com/"
+    },
     "Study": {
       "GoogleScholar": "https://yuzhen.life/scholar",
-      "Sci-Hub": "http://sci-hub.cc/",
+      "Sci-Hub": "http://sci-hub.tw/",
       "万方数据库": "http://www.wanfangdata.com.cn/",
       "中国知网": "http://www.cnki.net/",
       "Linggle": "http://linggle.com",
-      "日语语法指南": "http://res.wokanxing.info/jpgramma/index.html",
-      "日语N5基础词汇": "http://cichang.hujiang.com/book/1510532196757855",
       "Android": "http://www.chuanke.com/1432070-117405.html?statistics_channel_id=409&statistics_uid=15",
       "Leetcode": "https://leetcode.com/"
     }
   },
 
   "recent": {
+    "爬虫": {
+      "Scrapy爬虫": "https://www.jianshu.com/p/a94d7de5560f",
+      "绕过反爬虫策略和存储": "https://www.jianshu.com/p/ba1bba6670a6",
+      "爬虫反ban技巧": "http://blkstone.github.io/2016/03/02/crawler-anti-anti-cheat/"
+    },
     "PostgreSQL": {
+      "Remote connection": "https://blog.bigbinary.com/2016/01/23/configure-postgresql-to-allow-remote-connection.html",
       "PostgreSQL9.4中使用jsonb": "https://segmentfault.com/a/1190000002911580",
       "PostgreSQL角色用户创建": "http://blog.csdn.net/u010166404/article/details/53188882",
       "表空间/模式/表/用户/角色之间的关系": "http://blog.csdn.net/kanon_lgt/article/details/5931522"
@@ -416,6 +473,11 @@
       "Webpack 2入门教程": "https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/",
       "入门Webpack": "http://www.jianshu.com/p/42e11515c10f#",
       "webpack脚手架": "https://segmentfault.com/a/1190000007972133"
+    },
+    "Quantum": {
+      "IBM Q": "https://www.research.ibm.com/ibm-q/",
+      "量子遗传算法": "https://blog.csdn.net/yi_tech_blog/article/details/53844204",
+      "量子PSO": "https://blog.csdn.net/ztf312/article/details/77014719"
     },
     "Stocks": {
       "果仁网": "https://guorn.com/",
@@ -427,7 +489,22 @@
       "Wind财经学子": "http://xz.wind.com.cn/university/home/index.html"
     },
     "Flask": {
-      "使用Flask实现RESTful": "http://www.jianshu.com/p/f3624eebff80"
+      "使用Flask实现RESTful": "http://www.jianshu.com/p/f3624eebff80",
+      "FlaskMigrate": "https://flask-migrate.readthedocs.io/en/latest/"
+    },
+    "SQLAlchemy": {
+      "Core Docs": "http://docs.sqlalchemy.org/en/latest/core/tutorial.html",
+      "Orm Docs": "http://docs.sqlalchemy.org/en/latest/orm/tutorial.html",
+      "Orm教程": "https://www.jianshu.com/p/0d234e14b5d3"
+    },
+    "JWT": {
+      "JWT": "http://blog.leapoahead.com/2015/09/06/understanding-jwt/"
+    },
+    "RemoteWork": {
+      "一早一晚": "https://yizaoyiwan.com/",
+      "程序员客栈": "https://www.proginn.com/",
+      "码市": "https://codemart.com/",
+      "100Offer": "https://cn.100offer.com"
     },
     "HLA": {
       "Portico": "http://www.programcreek.com/java-api-examples/index.php?source_dir=portico-master",
