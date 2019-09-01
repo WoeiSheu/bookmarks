@@ -328,7 +328,9 @@
       "中国南航": "http://www.csair.com/cn/index.shtml"
     },
     "Government": {
-      "北京市预约挂号平台": "http://www.bjguahao.gov.cn/index.htm",
+      "助医网": "https://www.91985.com/users/portal/index.do",
+      "北京市预约挂号平台": "http://www.114yygh.com/index.htm",
+      "上海市预约挂号平台": "https://yuyue.shdc.org.cn/",
       "北京市党建工作平台": "http://106.38.59.216/",
       "教育部": "http://www.moe.gov.cn/",
       "志愿北京": "http://www.bv2008.cn/index.shtml",
@@ -375,9 +377,8 @@
       "锋客网": "http://www.phonekr.com/"
     },
     "NonExist": {
-      "LightSS": "https://www.shadowsocksx.me/",
       "微林": "https://vnet.link/",
-      "JandB": "http://www.jandb.cn/",
+      "N3RO": "https://n3ro.net/",
       "无国界记者": "http://rsf-chinese.org/"
     }
   },
